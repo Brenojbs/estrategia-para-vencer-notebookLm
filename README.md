@@ -1,7 +1,7 @@
 # estrategia-para-vencer-notebookLm
 Cérebro focado em estrategias de vencer nos projetos pessoais.
 
-Livros adcionados:
+Livros adicionados:
 Musashi volume I
 Musashi volume II
 Estrategia-maquiavel-musashi-os-cinco-aneis-sun-tsu
