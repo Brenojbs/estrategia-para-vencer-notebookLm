@@ -1,15 +1,15 @@
 # estrategia-para-vencer-notebookLm
 Cérebro focado em estrategias de vencer nos projetos pessoais.
 
-Livros adicionados:
-Musashi volume I
-Musashi volume II
+## Livros adicionados:
+Musashi volume I, 
+Musashi volume II, 
 Estrategia-maquiavel-musashi-os-cinco-aneis-sun-tsu
 
-Prompts:
+## Prompts:
 Em uma guerra psicologica entre o recrutador eo candidato, como mostrar calma, confiança e equilibrio mesmo estando nervoso e com medo?
 
-Respostas:
+## Respostas:
 "Para mostrar calma, confiança e equilíbrio em uma situação de alta pressão, como uma entrevista que assume o caráter de uma **"guerra psicológica"**, você deve aplicar os princípios de estratégia e atitude espiritual contidos nas fontes.
 
 ### 1. Atitude Espiritual e Equilíbrio Mental
